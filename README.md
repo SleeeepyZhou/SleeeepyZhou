@@ -3,10 +3,11 @@
 ##### My [Bilibili](https://space.bilibili.com/360375877)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SleeeepyZhou&show_icons=true&locale=en&layout=compact" alt="SleeeepyZhou" /></a></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&show_icons=true&locale=en" alt="SleeeepyZhou" /></p>
 
 <!--
 **SleeeepyZhou/SleeeepyZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&show_icons=true&locale=en" alt="SleeeepyZhou" /></p>
 
 Here are some ideas to get you started:
 
