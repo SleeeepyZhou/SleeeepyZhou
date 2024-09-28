@@ -1,7 +1,8 @@
-## Hi there 👋
+## 💤 Zzzz... 💤
 
 ##### My [Bilibili](https://space.bilibili.com/360375877)  
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&show_icons=true&theme=dark&count_private=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SleeeepyZhou&show_icons=true&locale=en&layout=compact" alt="SleeeepyZhou" /></a></p>
 
 <!--
