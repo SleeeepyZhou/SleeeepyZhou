@@ -1,7 +1,5 @@
-## 💤 Zzzz... 💤
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=💤Zzzz...💤&fontSize=90&fontAlign=50&fontAlignY=30&desc=Sleeeeping&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=💤Zzzz...💤&fontSize=90&fontAlign=50&fontAlignY=30&desc=欢迎光临我的秋秋空间&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -20,10 +18,11 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SleeeepyZhou&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-
 
 <!--
+## 💤 Zzzz... 💤
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 **SleeeepyZhou/SleeeepyZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&show_icons=true&locale=en" alt="SleeeepyZhou" /></p>
@@ -39,8 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=SleeeepyZhou&fontSize=90&fontAlign=50&fontAlignY=70&desc=欢迎光临我的秋秋空间&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
