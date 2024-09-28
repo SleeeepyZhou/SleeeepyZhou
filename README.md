@@ -1,9 +1,27 @@
 ## 💤 Zzzz... 💤
 
-##### My [Bilibili](https://space.bilibili.com/360375877)  
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=💤Zzzz...💤&fontSize=90&fontAlign=50&fontAlignY=30&desc=Sleeeeping&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&show_icons=true&theme=dark&count_private=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SleeeepyZhou&show_icons=true&locale=en&layout=compact" alt="SleeeepyZhou" /></a></p>
+<p align="center">
+<a href="https://github.com/SleeeepyZhou"><img src="https://img.shields.io/badge/GitHub-SleeeepyZhou-blue?logo=github" /></a>
+<a href="https://gitee.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Gitee-SleeeepyZhou-orange?logo=gitee" /></a>
+<a href="https://space.bilibili.com/360375877"><img src="https://img.shields.io/badge/BiliBili-SleeeepyZhou-pink?logo=bilibili" /></a>
+<a href="https://civitai.com/user/SleeeepyZhou"><img src="https://img.shields.io/badge/Civitai-SleeeepyZhou-0040FE" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=SleeeepyZhou&abbreviated=true" />
+</p>
+
+
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=SleeeepyZhou&theme=transparent&hide_border=true" />
+<br/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SleeeepyZhou&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 
 <!--
 **SleeeepyZhou/SleeeepyZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +39,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=SleeeepyZhou&fontSize=90&fontAlign=50&fontAlignY=70&desc=欢迎光临我的秋秋空间&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
