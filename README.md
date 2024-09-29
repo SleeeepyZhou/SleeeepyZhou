@@ -7,12 +7,11 @@
 <a href="https://gitee.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Gitee-SleeeepyZhou-orange?logo=gitee" /></a>
 <a href="https://space.bilibili.com/360375877"><img src="https://img.shields.io/badge/BiliBili-SleeeepyZhou-pink?logo=bilibili" /></a>
 <a href="https://steamcommunity.com/id/SleeeepyZhou/"><img src="https://img.shields.io/badge/Steam-SleeeepyZhou-black?logo=steam" /></a>
+</p>
 
-
+<p align="center">
 <a href="https://www.reddit.com/user/SleeeepyZhou/"><img src="https://img.shields.io/badge/Reddit-SleeeepyZhou-red?logo=reddit" /></a>
 <a href="https://civitai.com/user/SleeeepyZhou"><img src="https://img.shields.io/badge/Civitai-SleeeepyZhou-0040FE" /></a>
-
-
 <img src="https://komarev.com/ghpvc/?username=SleeeepyZhou&abbreviated=true" />
 </p>
 
