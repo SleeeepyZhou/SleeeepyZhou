@@ -4,17 +4,9 @@
 
 <p align="center">
 <a href="https://github.com/SleeeepyZhou"><img src="https://img.shields.io/badge/GitHub-SleeeepyZhou-blue?logo=github" /></a>
-<a href="https://gitee.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Gitee-SleeeepyZhou-orange?logo=gitee" /></a>
-<a href="https://space.bilibili.com/360375877"><img src="https://img.shields.io/badge/BiliBili-SleeeepyZhou-pink?logo=bilibili" /></a>
-<a href="https://steamcommunity.com/id/SleeeepyZhou/"><img src="https://img.shields.io/badge/Steam-SleeeepyZhou-black?logo=steam" /></a>
+<a href="https://space.bilibili.com/360375877"><img src="https://img.shields.io/badge/BiliBili-SleeeepyZhou-ea7a99?logo=bilibili" /></a>
+<a href="https://steamcommunity.com/id/SleeeepyZhou/"><img src="https://img.shields.io/badge/Steam-SleeeepyZhou-1e2837?logo=steam" /></a>
 </p>
-
-<p align="center">
-<a href="https://www.reddit.com/user/SleeeepyZhou/"><img src="https://img.shields.io/badge/Reddit-SleeeepyZhou-red?logo=reddit" /></a>
-<a href="https://civitai.com/user/SleeeepyZhou"><img src="https://img.shields.io/badge/Civitai-SleeeepyZhou-0040FE" /></a>
-<img src="https://komarev.com/ghpvc/?username=SleeeepyZhou&abbreviated=true" />
-</p>
-
 
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long&count_private=true" />
@@ -22,6 +14,14 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SleeeepyZhou&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&count_private=true" />
 
+<p align="center">
+<a href="https://gitee.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Gitee--c72a24?logo=gitee" /></a>
+<a href="https://www.reddit.com/user/SleeeepyZhou/"><img src="https://img.shields.io/badge/Reddit--ea5528?logo=reddit" /></a>
+<a href="https://www.youtube.com/@SleeeepyZhou"><img src="https://img.shields.io/badge/YouTube--ea3323?logo=youtube" /></a>
+<a href="https://x.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Twitter--black?logo=x" /></a>
+<a href="https://civitai.com/user/SleeeepyZhou"><img src="https://img.shields.io/badge/Civitai--0f1070" /></a>
+<img src="https://komarev.com/ghpvc/?username=SleeeepyZhou&abbreviated=true" />
+</p>
 
 <h1 align="center"> 💤 Zzzz... 💤 </h1>
 
