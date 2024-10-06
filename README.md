@@ -14,6 +14,9 @@
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SleeeepyZhou&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&count_private=true" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 <p align="center">
 <a href="https://gitee.com/SleeeepyZhou"><img src="https://img.shields.io/badge/Gitee--c72a24?logo=gitee" /></a>
 <a href="https://www.reddit.com/user/SleeeepyZhou/"><img src="https://img.shields.io/badge/Reddit--ea5528?logo=reddit" /></a>
@@ -27,7 +30,7 @@
 
 
 <!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SleeeepyZhou&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
 
 **SleeeepyZhou/SleeeepyZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
