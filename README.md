@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=GitHub年度大会员&fontSize=90&fontAlign=50&fontAlignY=30&desc=有效期至2333年01月14日&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=GitHub年度大会员&fontSize=90&fontAlign=50&fontAlignY=30&desc=有效期至2333年1月14日5:14&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
