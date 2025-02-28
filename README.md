@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Moe Counter](https://count.getloli.com/@SleeeepyZhou?name=SleeeepyZhou&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/SleeeepyZhou/)
+[![Moe Counter](https://count.getloli.com/@SleeeepyZhou?name=SleeeepyZhou&theme=moebooru)](https://github.com/SleeeepyZhou/)
 
 </div>
 
