@@ -16,6 +16,8 @@
 
 </div>
 
+<img src="https://algora.io/og/user/SleeeepyZhou"/>
+
 <p align="center">
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SleeeepyZhou&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long&count_private=true" />
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=SleeeepyZhou&theme=transparent&hide_border=true" />
